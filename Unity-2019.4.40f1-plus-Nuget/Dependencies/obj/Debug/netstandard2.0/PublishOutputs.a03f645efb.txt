@@ -1,0 +1,7 @@
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\bin\Release\Dependencies.dll
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\bin\Release\Dependencies.deps.json
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\bin\Release\Dependencies.pdb
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\bin\Release\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\bin\Release\Newtonsoft.Json.Bson.dll
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\bin\Release\YandexDisk.Client.dll

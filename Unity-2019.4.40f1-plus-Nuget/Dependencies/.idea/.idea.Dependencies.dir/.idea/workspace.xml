@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38a18fdf-ec64-4196-8e67-b040b4e8f915" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SampleClass.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NkdZX4rJwKva4bnif78nCPfeXK" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Publish to folder.Publish Dependencies to folder (2)">
+    <configuration name="Publish Dependencies to folder (1)" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish target_folder="$PROJECT_DIR$/bin/Release" target_framework="netstandard2.0" uuid_high="3311097926537015388" uuid_low="2887031524346465757" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish Dependencies to folder (2)" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish target_folder="$PROJECT_DIR$/bin/Release" target_framework="netstandard2.0" uuid_high="3311097926537015388" uuid_low="2887031524346465757" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish Dependencies to folder" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish target_folder="$PROJECT_DIR$/bin/Release" target_framework="netstandard2.0" uuid_high="3311097926537015388" uuid_low="2887031524346465757" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Release" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish target_folder="$PROJECT_DIR$/bin/Release" target_framework="netstandard2.0" uuid_high="3311097926537015388" uuid_low="2887031524346465757" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Publish to folder.Publish Dependencies to folder (2)" />
+        <item itemvalue="Publish to folder.Publish Dependencies to folder (1)" />
+        <item itemvalue="Publish to folder.Publish Dependencies to folder" />
+        <item itemvalue="Publish to folder.Release" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38a18fdf-ec64-4196-8e67-b040b4e8f915" name="Default Changelist" comment="" />
+      <created>1680212093780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680212093780</updated>
+      <workItem from="1680212102703" duration="738000" />
+      <workItem from="1680283724417" duration="1432000" />
+      <workItem from="1680292880738" duration="1809000" />
+      <workItem from="1680813606415" duration="1233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+</project>

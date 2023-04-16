@@ -1,0 +1,10 @@
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\bin\Debug\netstandard2.0\Dependencies.deps.json
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\bin\Debug\netstandard2.0\Dependencies.dll
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\bin\Debug\netstandard2.0\Dependencies.pdb
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\obj\Debug\netstandard2.0\Dependencies.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\obj\Debug\netstandard2.0\Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\obj\Debug\netstandard2.0\Dependencies.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\obj\Debug\netstandard2.0\Dependencies.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\obj\Debug\netstandard2.0\Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\obj\Debug\netstandard2.0\Dependencies.dll
+C:\Users\TOSHIBA\Desktop\video-player\UnityProject_v2021.3.20f1\Dependencies\obj\Debug\netstandard2.0\Dependencies.pdb
